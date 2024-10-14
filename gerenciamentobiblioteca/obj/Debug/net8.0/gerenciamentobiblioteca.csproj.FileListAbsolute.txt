@@ -1,0 +1,15 @@
+c:\Users\Alunos\OneDrive\Documents\Kaun 0904\GerenciamentoBiblioteca\gerenciamentobiblioteca\bin\Debug\net8.0\gerenciamentobiblioteca.exe
+C:\Users\Alunos\OneDrive\Documents\Kaun 0904\GerenciamentoBiblioteca\gerenciamentobiblioteca\bin\Debug\net8.0\gerenciamentobiblioteca.deps.json
+C:\Users\Alunos\OneDrive\Documents\Kaun 0904\GerenciamentoBiblioteca\gerenciamentobiblioteca\bin\Debug\net8.0\gerenciamentobiblioteca.runtimeconfig.json
+c:\Users\Alunos\OneDrive\Documents\Kaun 0904\GerenciamentoBiblioteca\gerenciamentobiblioteca\bin\Debug\net8.0\gerenciamentobiblioteca.dll
+c:\Users\Alunos\OneDrive\Documents\Kaun 0904\GerenciamentoBiblioteca\gerenciamentobiblioteca\bin\Debug\net8.0\gerenciamentobiblioteca.pdb
+c:\Users\Alunos\OneDrive\Documents\Kaun 0904\GerenciamentoBiblioteca\gerenciamentobiblioteca\obj\Debug\net8.0\gerenciamentobiblioteca.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Alunos\OneDrive\Documents\Kaun 0904\GerenciamentoBiblioteca\gerenciamentobiblioteca\obj\Debug\net8.0\gerenciamentobiblioteca.AssemblyInfoInputs.cache
+c:\Users\Alunos\OneDrive\Documents\Kaun 0904\GerenciamentoBiblioteca\gerenciamentobiblioteca\obj\Debug\net8.0\gerenciamentobiblioteca.AssemblyInfo.cs
+c:\Users\Alunos\OneDrive\Documents\Kaun 0904\GerenciamentoBiblioteca\gerenciamentobiblioteca\obj\Debug\net8.0\gerenciamentobiblioteca.csproj.CoreCompileInputs.cache
+c:\Users\Alunos\OneDrive\Documents\Kaun 0904\GerenciamentoBiblioteca\gerenciamentobiblioteca\obj\Debug\net8.0\gerenciamentobiblioteca.sourcelink.json
+c:\Users\Alunos\OneDrive\Documents\Kaun 0904\GerenciamentoBiblioteca\gerenciamentobiblioteca\obj\Debug\net8.0\gerenciamentobiblioteca.dll
+c:\Users\Alunos\OneDrive\Documents\Kaun 0904\GerenciamentoBiblioteca\gerenciamentobiblioteca\obj\Debug\net8.0\refint\gerenciamentobiblioteca.dll
+c:\Users\Alunos\OneDrive\Documents\Kaun 0904\GerenciamentoBiblioteca\gerenciamentobiblioteca\obj\Debug\net8.0\gerenciamentobiblioteca.pdb
+C:\Users\Alunos\OneDrive\Documents\Kaun 0904\GerenciamentoBiblioteca\gerenciamentobiblioteca\obj\Debug\net8.0\gerenciamentobiblioteca.genruntimeconfig.cache
+C:\Users\Alunos\OneDrive\Documents\Kaun 0904\GerenciamentoBiblioteca\gerenciamentobiblioteca\obj\Debug\net8.0\ref\gerenciamentobiblioteca.dll
